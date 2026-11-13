@@ -1,6 +1,8 @@
 # Catálogo de estilos UI
 
-Un HTML sencillo para comparar distintos estilos de interfaz aplicados sobre los mismos componentes. Todo está en un único archivo, sin dependencias ni paso de build: basta con abrir `catalogo-estilos-ui.html` en el navegador.
+🔗 **Live:** [zetasab.github.io/catalogo-estilos-ui](https://zetasab.github.io/catalogo-estilos-ui/)
+
+Un HTML sencillo para comparar distintos estilos de interfaz aplicados sobre los mismos componentes. Todo está en un único archivo, sin dependencias ni paso de build: basta con abrir `index.html` en el navegador.
 
 ## Qué incluye
 
